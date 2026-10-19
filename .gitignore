@@ -1,0 +1,12 @@
+# Compiled executable
+a.out
+mp3tagreader
+*.o
+
+# Temporary and generated files
+temp.mp3
+output.txt
+result.txt
+
+# IDE files
+.vscode/
